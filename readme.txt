@@ -3,7 +3,7 @@ Press exit to comeout of the remote system.
 
 Created a file Ques1B.sh 
          Created a text file to be transfered
-         nano Ques1B.sh 
+         nano Ques.sh 
          write the code using scp command having the path  to transfer the file trsfr.txt  to remote system.
          make the Ques1B.sh executable using chmod +x Ques1B.sh
          ./Ques1B.sh
