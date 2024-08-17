@@ -1,0 +1,3 @@
+#Part A : Remote Login SSH SCRIPT AUTOMATING TERMINAL SESSION TO A REMOTE SYSTEM. 
+sshpass -p uav ssh krishna@192.168.137.20
+
